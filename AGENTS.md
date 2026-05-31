@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Codex Notes
 
 This repository is the public Quartz content repository for the digital garden.
