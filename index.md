@@ -37,3 +37,5 @@ Check out my [Linktree](https://www.gabrielpezzo.dev/my-linktree) for all my soc
 ---
 
 *This site is a work in progress and constantly evolving. Feel free to explore and leave comments on any page.*
+
+<!-- test commit to verify public-notes dispatch -->
