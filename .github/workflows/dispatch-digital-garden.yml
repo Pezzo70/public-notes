@@ -1,0 +1,18 @@
+name: Dispatch Digital Garden
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repository dispatch
+        env:
+          GH_TOKEN: ${{ secrets.DIGITAL_GARDEN_DISPATCH_TOKEN }}
+        run: |
+          gh api repos/Pezzo70/digital-garden/dispatches \
+            -f event_type=content-updated \
+            -f client_payload='{"source":"public-notes","branch":"main"}'
