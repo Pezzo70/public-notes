@@ -15,4 +15,5 @@ jobs:
         run: |
           gh api repos/Pezzo70/digital-garden/dispatches \
             -f event_type=content-updated \
-            -f client_payload='{"source":"public-notes","branch":"main"}'
+            -f client_payload[source]=public-notes \
+            -f client_payload[branch]=main
