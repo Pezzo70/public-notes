@@ -12,4 +12,4 @@ draft: true
 
 ## Notes
 
-Notas iniciais sobre o livro. Teste 2
+Notas iniciais sobre o livro. Teste
