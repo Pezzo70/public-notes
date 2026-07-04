@@ -25,6 +25,7 @@ O livro explora como o acaso, a probabilidade e a aleatoriedade influenciam even
 - Pequenas amostras podem produzir conclusões convincentes, mas enganosas.
 - Resultados extremos nem sempre indicam habilidade excepcional ou incompetência; muitas vezes refletem variação estatística.
 - Entender probabilidade ajuda a avaliar melhor sucesso, fracasso, risco e tomada de decisão.
+- [[isochronism]] - A property of oscillators where the period is independent of amplitude for small oscillations.
 
 ## Perguntas
 
