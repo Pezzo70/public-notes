@@ -7,7 +7,7 @@ tags:
   - probabilidade
   - estatistica
   - acaso
-draft: true
+draft: false
 ---
 
 # O andar do bêbado
